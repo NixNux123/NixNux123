@@ -16,9 +16,9 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 - Databases: MySQL, MariaDB, Redis
 - Webservers: Apache2, Nginx
 - Proxies: HaProxy, Nginx, Gate, Infrared + Forks, Gamma
-- Containers: Docker, Docker-Compose, Pterodactyl
+- Containers: Docker, Podman, Docker-Compose, Pterodactyl
 - Firewalls: OpnSense, IPTables
-- Monitoring: Uptime Kuma, Cockpit
+- Monitoring: Uptime Kuma, Cockpit, Grafana
 - Cloud: Nextcloud, CloudNet
 - VPN: OpenVPN (+ Pritunl), Wireguard
 - Minecraft: Spigot + Forks (PaperMC, Pufferfish, PurPurMC, etc.), Bungeecord + Forks, Velocity
