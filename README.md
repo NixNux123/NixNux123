@@ -4,10 +4,10 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 
 ### I'm working on...
 - [FynnCraft.de](https://www.fynncraft.de/) Network
-  - Infrastrukture
+  - Infrastructure
   - Administration
-- Gamma-Antibot-Prototype
-  - AntiBot on an ReverseProxy for Minecraft
+- DCA-Network
+  - Infrastructure
 
 ### I already worked with...
 - OS: Debian 10/11/12, Ubuntu 20.04/22.04, RockyLinux 9
@@ -16,7 +16,7 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 - Databases: MySQL, MariaDB, Redis
 - Webservers: Apache2, Nginx
 - Proxies: HaProxy, Nginx, Gate, Infrared + Forks, Gamma
-- Containers: Docker, Podman, Docker-Compose, Pterodactyl
+- Containerization: Docker, Podman, Docker-Compose, Pterodactyl
 - Firewalls: OpnSense, IPTables
 - Monitoring: Uptime Kuma, Cockpit, Grafana
 - Cloud: Nextcloud, CloudNet
@@ -24,12 +24,15 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 - Minecraft: Spigot + Forks (PaperMC, Pufferfish, PurPurMC, etc.), Bungeecord + Forks, Velocity
 - Coding: Python, Bash/Shell
 - Mail: Mailcow, iRedMail
-- DDos-Protection: Synlinq, combathon/aurologic, Hetzner, Unesty Pyrus, OVH, OVH + Postfilter (for Minecraft), Voxility + Postfilter
+- DDos-Protection: Synlinq, combathon/aurologic, combathon/aurologic + Postfilter, Hetzner, Unesty Pyrus, OVH, OVH + Postfilter (for Minecraft), Voxility + Postfilter
+
+### I'm trying to learn...
+- Go
+- NFTables
 
 ### Other Stuff I do
 - Helping others by stuff from above
-- Experimenting with basic Machine Learning using Python
 
 ### Contact:
 - Discord: nixnux123
-- Mail: nixnux123@savegamers.de
+- Mail: nixnux123@fynncraft.de
