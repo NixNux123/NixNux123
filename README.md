@@ -9,7 +9,7 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 - DCA-Network
   - Infrastructure
 
-### I already worked with...
+### I have (some) experience with...
 - OS: Debian 10/11/12, Ubuntu 20.04/22.04, RockyLinux 9
 - Virtualization: Proxmox 7 & 8 (KVM & LXC)
 - Automation: Ansible
