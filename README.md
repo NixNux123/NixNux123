@@ -30,7 +30,7 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 - Go
 - NFTables
 
-### Other Stuff I do
+### Other Stuff I do...
 - Helping others by stuff from above
 
 ### I can speak...
