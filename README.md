@@ -10,8 +10,8 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
   - Infrastructure
 
 ### I have (some) experience with...
-- OS: Debian 10/11/12, Ubuntu 20.04/22.04, RockyLinux 9
-- Virtualization: Proxmox 7 & 8 (KVM & LXC)
+- OS: Debian, Ubuntu, RockyLinux
+- Virtualization: KVM, LXC (via Proxmox VE)
 - Automation: Ansible
 - Databases: MySQL, MariaDB, Redis
 - Webservers: Apache2, Nginx
@@ -32,6 +32,10 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 
 ### Other Stuff I do
 - Helping others by stuff from above
+
+### I can speak...
+- English 🇺🇸
+- German 🇩🇪
 
 ### Contact:
 - Discord: nixnux123
