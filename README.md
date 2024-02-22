@@ -3,7 +3,7 @@
 I'm NixNux123. I'm an Hobby Systemadministrator.
 
 ### I'm working on...
-- [FynnCraft.de](https://www.fynncraft.de/) Network
+- [FynnCraft.de Network](https://www.fynncraft.de/)
   - Infrastructure
   - Administration
 - DCA-Network
@@ -16,15 +16,15 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 - Databases: MySQL, MariaDB, Redis
 - Webservers: Apache2, Nginx
 - Proxies: HaProxy, Nginx, Gate, Infrared + Forks, Gamma
-- Containerization: Docker, Podman, Docker-Compose, Pterodactyl
+- Containerization: Docker, Podman, Pterodactyl
 - Firewalls: OpnSense, IPTables
 - Monitoring: Uptime Kuma, Cockpit, Grafana
 - Cloud: Nextcloud, CloudNet
 - VPN: OpenVPN (+ Pritunl), Wireguard
-- Minecraft: Spigot + Forks (PaperMC, Pufferfish, PurPurMC, etc.), Bungeecord + Forks, Velocity
+- Minecraft: Paper + Forks, Bungeecord + Forks, Velocity
 - Coding: Python, Bash/Shell
 - Mail: Mailcow, iRedMail
-- DDos-Protection: Synlinq, combathon/aurologic, combathon/aurologic + Postfilter, Hetzner, Unesty Pyrus, OVH, OVH + Postfilter (for Minecraft), Voxility + Postfilter
+- DDos-Protection: Synlinq, combathon/aurologic, as203446.net, Hetzner, Unesty Pyrus, OVH, OVH + Postfilter (for Minecraft), Voxility + Postfilter
 
 ### I'm trying to learn...
 - Go
