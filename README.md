@@ -6,6 +6,8 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 - [FynnCraft.de Network](https://www.fynncraft.de/)
   - Infrastructure
   - Administration
+- [Minekube.com](https://connect.minekube.com/)
+  - Moderation / Support
 - DCA-Network
   - Infrastructure
 
@@ -28,6 +30,7 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 
 ### I'm trying to learn...
 - Go
+- Java
 - NFTables
 
 ### Other Stuff I do...
