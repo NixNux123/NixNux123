@@ -17,13 +17,13 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
 - Automation: Ansible
 - Databases: MySQL, MariaDB, Redis
 - Webservers: Apache2, Nginx
-- Proxies: HaProxy, Nginx, Gate, Infrared + Forks, Gamma
-- Containerization: Docker, Podman, Pterodactyl
+- Proxies: HAProxy, Nginx, Gate, Infrared + Forks, Gamma
+- Containerization: Docker, Podman, Pterodactyl, Portainer
 - Firewalls: OpnSense, IPTables
 - Monitoring: Uptime Kuma, Cockpit, Grafana
 - Cloud: Nextcloud, CloudNet
 - VPN: OpenVPN (+ Pritunl), Wireguard
-- Minecraft: Paper + Forks, Bungeecord + Forks, Velocity
+- Minecraft: Paper + Forks, Bungeecord + Forks, Velocity, Gate
 - Coding: Python, Bash/Shell
 - Mail: Mailcow, iRedMail
 - DDos-Protection: Synlinq, combathon/aurologic, as203446.net, Hetzner, Unesty Pyrus, OVH, OVH + Postfilter (for Minecraft), Voxility + Postfilter
