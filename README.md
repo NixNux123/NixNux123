@@ -7,34 +7,34 @@ I'm NixNux123. I'm an Hobby Systemadministrator.
   - Infrastructure
   - Administration
 - [Minekube.com](https://connect.minekube.com/)
-  - Moderation / Support
+  - Technical Moderation
 - DCA-Network
   - Infrastructure
 
 ### I have (some) experience with...
-- OS: Debian, Ubuntu, RockyLinux
-- Virtualization: KVM, LXC (via Proxmox VE)
-- Automation: Ansible
-- Databases: MySQL, MariaDB, Redis
-- Webservers: Apache2, Nginx
-- Proxies: HAProxy, Nginx, Gate, Infrared + Forks, Gamma
-- Containerization: Docker, Podman, Pterodactyl, Portainer
-- Firewalls: OpnSense, IPTables
-- Monitoring: Uptime Kuma, Cockpit, Grafana
-- Cloud: Nextcloud, CloudNet
-- VPN: OpenVPN (+ Pritunl), Wireguard
-- Minecraft: Paper + Forks, Bungeecord + Forks, Velocity, Gate
-- Coding: Python, Bash/Shell
-- Mail: Mailcow, iRedMail
-- DDos-Protection: Synlinq, combathon/aurologic, as203446.net, Hetzner, Unesty Pyrus, OVH, OVH + Postfilter (for Minecraft), Voxility + Postfilter
+- **OS:** Debian, RockyLinux
+- **Virtualization:** KVM, LXC (via Proxmox VE)
+- **Automation:** Ansible
+- **Databases:** MySQL, MariaDB, Redis, Postgres
+- **Webservers:** Apache2, Nginx
+- **Proxies:** HAProxy, Nginx, Gate
+- **Containerization:** Docker, Pterodactyl, Portainer
+- **Firewalls:** OpnSense, IPTables
+- **Monitoring:** Uptime Kuma, Cockpit, Grafana
+- **Cloud:** Nextcloud
+- **VPN:** OpenVPN (+ Pritunl), Wireguard
+- **Minecraft:** Paper + Forks, Bungeecord + Forks, Velocity, Gate, CloudNet
+- **Development:** Python, Bash/Shell, Skript
+- **Mail:** Mailcow
 
 ### I'm trying to learn...
 - Go
 - Java
 - NFTables
+- And more...
 
 ### Other Stuff I do...
-- Helping others by stuff from above
+- Helping others with stuff from above
 
 ### I can speak...
 - English 🇺🇸
