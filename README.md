@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**NixNux123/NixNux123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
 
-Here are some ideas to get you started:
+I'm Benjamin (NixNux123), a student and system administrator from Germany. I'm currently studying at a technical gymnasium. In my free time, I enjoy working with servers, IT infrastructure, and exploring new technologies. I've gained practical experience over the last few years, and I'm always eager to learn more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Skills and Experience**
+
+* **Virtualization:** Proxmox
+* **Operating Systems:** Debian and RHEL-based distributions
+* **Databases:** MariaDB, PostgreSQL, Redis
+* **Web Servers and Proxies:** Apache2, Nginx, HaProxy, Gate
+* **Containerization:** Docker
+* **Networking and VPNs:** OpenVPN, Wireguard
+* **Security:** IPTables, OpnSense
+* **Monitoring:** Grafana, Uptime Kuma
+* **Mail:** Mailcow
+* **Applications:** Collaboration and knowledge management tools (Nextcloud, Bookstack), Identity and Access Management (Zitadel), Remote access (Apache Guacamole), Container orchestration (Pterodactyl), Minecraft Cloudsystem (Cloudnet), Ad blocking, network security, and DNS management (Adguard) and a variety of other open-source applications.
+* **Programming:** Minecraft Skript, Python (basic scripting), Java (some experience), Go (basic experience)
+
+**Projects and Involvement**
+
+* [FynnCraft Minecraft Network](https://www.fynncraft.de): Infrastructure and Administration
+* [Minekube: Ingress Tunnels for Minecraft](https://connect.minekube.com) & [The Gate Proxy](https://gate.minekube.com): - Technical Moderation
+* DCA-Network: Infrastructure
+* Other personal projects
+
+**Contact Me**
+
+* Discord: nixnux123
+* Email: nixnux123@fynncraft.de
+
+I'm always interested in chatting and collaborating on projects. Feel free to reach out!
