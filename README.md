@@ -15,13 +15,13 @@ I'm Benjamin (NixNux123), a student and system administrator from Germany. I'm c
 * **Security:** IPTables, OpnSense
 * **Monitoring:** Grafana, Uptime Kuma
 * **Mail:** Mailcow
-* **Applications:** Collaboration and knowledge management tools (Nextcloud, Bookstack), Identity and Access Management (Zitadel), Remote access (Apache Guacamole), Container orchestration (Pterodactyl), Minecraft Cloudsystem (Cloudnet), Ad blocking, network security, and DNS management (Adguard) and a variety of other open-source applications.
+* **Applications:** Collaboration and knowledge management tools (Nextcloud, Bookstack), Identity and Access Management (Zitadel), Remote access (Apache Guacamole), Container orchestration (Portainer), Minecraft Cloudsystem (Cloudnet), Ad blocking, network security, and DNS management (Adguard) and a variety of other open-source applications.
 * **Programming:** Minecraft Skript, Python (basic scripting), Java (some experience), Go (basic experience)
 
 **Projects and Involvement**
 
 * [FynnCraft Minecraft Network](https://www.fynncraft.de): Infrastructure and Administration
-* [Minekube: Ingress Tunnels for Minecraft](https://connect.minekube.com) & [The Gate Proxy](https://gate.minekube.com): - Technical Moderation
+* [Minekube: Ingress Tunnels for Minecraft](https://connect.minekube.com) & [The Gate Proxy](https://gate.minekube.com): Technical Moderation
 * DCA-Network: Infrastructure
 * Other personal projects
 
