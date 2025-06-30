@@ -28,6 +28,6 @@ I'm Benjamin (NixNux123), a student and system administrator from Germany. I'm c
 **Contact Me**
 
 * Discord: nixnux123
-* Email: nixnux123@fynncraft.de
+* Email: benjamin.herde@fynncloud.net
 
 I'm always interested in chatting and collaborating on projects. Feel free to reach out!
